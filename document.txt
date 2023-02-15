@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Salut à tous
-=======
-Salut
->>>>>>> 980af65b97b3b2fd1e4ea78b45b331101897daa4
+Bonsoir
